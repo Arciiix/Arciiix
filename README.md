@@ -6,7 +6,7 @@
 
 🎓 Currently a student
 
-🌱 Now learning ASP.NET Core/C# and crafting some fancy IoT (sometimes with AI) projects making my life easier
+🌱 Now learning ASP.NET Core/C# and crafting some fancy IoT projects (sometimes combined with AI), making my life easier
 
 💻 Looking to collaborate on exciting projects, open to work (contact me). I'm available for freelancing.
 
