@@ -4,7 +4,7 @@
 
 🎇 A passionate software engineer with a focus on Back-End Development and IoT
 
-🎓 Currently a student
+🎓 Currently a student at one of the top Polish technical colleges/high schools
 
 🌱 Now learning ASP.NET Core/C# and crafting some fancy IoT projects (sometimes combined with AI), making my life easier
 
